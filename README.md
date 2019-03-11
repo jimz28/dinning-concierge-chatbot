@@ -15,10 +15,14 @@ Implement a serverless, microservice-driven  Dining Concierge chatbot, that give
 
 
 ## Demo Image
-![GitHub Logo](/images/demo.png)
-Format: ![Alt Text](url)
+login
+![GitHub Logo](/image/login.png)
+
+Chat
+![GitHub Logo](/image/chat.png)
+
 
 
 ## Contributors
-Zheng Zhi
-Hu Xin
+1. Zheng Zhi
+2. Hu Xin
